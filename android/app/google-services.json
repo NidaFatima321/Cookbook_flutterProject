@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "582687191679",
+    "project_id": "cookbookbynida",
+    "storage_bucket": "cookbookbynida.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582687191679:android:4f8d3bc1a5a02ff945c54a",
+        "android_client_info": {
+          "package_name": "com.example.cookbook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxsIWuqyq0IO39OHWXCmbriXVuBCAxPZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
